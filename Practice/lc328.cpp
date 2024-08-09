@@ -18,7 +18,7 @@ public:
 
         ListNode* temp = head;
         int pos = 1;
-
+b+, lstm, indexing, avl trees, shrding and how can you do it and all things in detail, query management system
         while(temp != nullptr){
             if(pos % 2 != 0){
                 if(prev_od != nullptr) 
